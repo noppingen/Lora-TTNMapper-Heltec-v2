@@ -1,6 +1,6 @@
 # Lora-TTNMapper-Heltec-v2
 
-## What
+## Summary
 
 Code for a TTNMapper node with GPS running on an [https://heltec.org/project/wifi-lora-32/](Heltec "WiFi Lora32 v2"), based on [Heltec-Wifi-Lora-32-TTN-Mapper by sistemasorp](https://github.com/sistemasorp/Heltec-Wifi-Lora-32-TTN-Mapper)
 
