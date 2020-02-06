@@ -25,7 +25,7 @@ Code for a TTNMapper node with GPS running on a [Heltec "WiFi Lora32 **V2**"](ht
 * Set `GPS_RX` and `GPS_TX`
 * Set gateway GPS coordinates to get the distance displayed on your way
 * Set `TX_INTERVAL`, `HDOP_MAX` and `TX_WAIT_INTERVAL`
-* Change bands if you are not in EU868
+* Change bands if you are not in the EU868 region
 * Print my case: [Thingiverse](https://www.thingiverse.com/thing:4145143)
 
 ## Images
