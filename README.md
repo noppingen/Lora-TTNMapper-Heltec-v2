@@ -28,6 +28,11 @@ Code for a TTNMapper node with GPS running on a [Heltec "WiFi Lora32 **V2**"](ht
 * Change bands if you are not in the EU868 region
 * Print my case: [Thingiverse](https://www.thingiverse.com/thing:4145143)
 
+## TTN
+
+* Activation method is set to ABP
+* TTN decoder script is [here](TTN-Decoder script.txt)
+
 ## Images
 
 ![Mapper Node #1](ttnmapper_esp32_01.jpg)
