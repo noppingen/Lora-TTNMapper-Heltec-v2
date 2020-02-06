@@ -21,7 +21,7 @@ Code for a TTNMapper node with GPS running on a [Heltec "WiFi Lora32 **V2**"](ht
 ## Get it running
 
 * Add required libraries
-* Set TTN NWKSKEY, APPKSKEY and DEVADDR
+* Set TTN `NWKSKEY`, APPKSKEY and DEVADDR
 * Set GPS_RX and GPS_TX
 * Set gateway GPS coordinates to get the distance displayed on your way
 * Set TX_INTERVAL, HDOP_MAX and TX_WAIT_INTERVAL
