@@ -31,7 +31,7 @@ Code for a TTNMapper node with GPS running on a [Heltec "WiFi Lora32 **V2**"](ht
 ## TTN
 
 * Activation method is set to ABP
-* TTN decoder script is [here](./TTN-Decoder script.txt)
+* TTN decoder script is in `TTN-Decoder script.txt`
 
 ## Images
 
