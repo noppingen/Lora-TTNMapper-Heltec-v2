@@ -14,7 +14,7 @@ Code for a TTNMapper node with GPS running on a [Heltec "WiFi Lora32 **V2**"](ht
 ## Modifications
 
 * More diag output on serial interface
-* Send only if GPS `HDOP` is below a certain limit
+* Stay quiet, LoRa TX only if GPS `HDOP` is below a certain limit
 * Vext is initialized during start, you may connect the GPS to Vext
 * Display of distance to your mapped "home" gateway
 
